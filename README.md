@@ -1,17 +1,17 @@
 # walks
 
 
-## Circularity (7.0km)
+## Circularity
 
 - 2025-10-26: 7.0km / 64min = 6.6km/h
 
 
-## Duality (8.3km)
+## Duality
 
 - 2019-??-??: 8.3km / 72min = 6.9km/h
 
 
-## Trinity (10.2km)
+## Trinity
 
 - 2025-08-30: 10.2km / 105min = 5.8km/h
 - 2025-09-07: 10.1km / 97min = 6.2km/h
